@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Eloi Vanderbeken'
 SITENAME = u'BeeRumP'
-SITEURL = 'http://www.rump.beer'
+SITEURL = 'http://www.rump.beer/2016'
 RELATIVE_URLS = True
-THEME = 'theme'
+THEME = '../theme'
 
 PATH = 'content'
 
