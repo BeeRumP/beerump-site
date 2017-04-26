@@ -45,7 +45,10 @@ Pourquoi faire payer les places (2€) ?
 
 Comment soumettre une présentation ?
 
-* Envoyez votre soumission à contact [at] rump [point] beer au maximum la veille de BeeRumP.
+* Envoyez votre soumission à contact [at] rump [point] beer au plus tard une semaine avant BeeRumP.
+* Précisez au minimum le titre de la rump et le nom sous lequel vous souhaitez qu'elle soit publiée.
+* Une soumission de 7 pages n'est pas nécessaire mais essayez de décrire un minimum votre sujet et pourquoi vous pensez qu'il ferait une bonne rump.
+* Si vous avez des exigences particulières (heure de passage, boisson préférée, etc.) précisez-les dans votre soumission.
 * **⚠ BeeRumP n'aura lieu que si suffisament de rumps sont soumises (12 minimum) ⚠**
 * ** N'hésitez pas à soumettre,  il ne s'agit que de rumps. Pas de prise de tête ☺. **
 
