@@ -29,4 +29,4 @@ Comment :
 
 * Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2017 "lien de réservation des places")**.
 
-Plus d'infos dans la **[FAQ](/category/faq.html "lien vers la FAQ")**
+Plus d'infos dans la **[FAQ]({filename}/FAQ.md "lien vers la FAQ")**

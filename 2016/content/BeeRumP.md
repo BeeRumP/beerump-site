@@ -32,4 +32,4 @@ Comment :
 * <s>Vous pouvez toujours soumettre une rump (jusqu'à la veille de BeeRumP) pour avoir une invitation !</s>
 * **Plus de créneaux disponibles pour cette session, désolé !**
 
-Plus d'infos dans la **[FAQ](/category/faq.html "lien vers la FAQ")**
+Plus d'infos dans la **[FAQ]({filename}/FAQ.md "lien vers la FAQ")**

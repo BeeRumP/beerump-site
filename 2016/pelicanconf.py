@@ -26,7 +26,7 @@ READERS = {'html': None}
 
 TWITTER_WIDGET_ID = u'731867805335867393'
 TWITTER_USERNAME = u'BeeRumP_Paris'
-MD_EXTENSIONS = {'markdown.extensions.codehilite' : {'css_class': 'highlight'}, 'markdown.extensions.extra': {}, 'markdown.extensions.meta': {}, 'markdown.extensions.toc' : {'anchorlink': True, 'marker': ''}}
+MARKDOWN = {'markdown.extensions.codehilite' : {'css_class': 'highlight'}, 'markdown.extensions.extra': {}, 'markdown.extensions.meta': {}, 'markdown.extensions.toc' : {'anchorlink': True, 'marker': ''}}
 DEFAULT_PAGINATION = 10
 
 FAVICON = u'favicon.png'
