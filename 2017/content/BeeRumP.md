@@ -25,6 +25,12 @@ Où :
 * Transports en commun : métro 7 (station Porte d'Italie), bus 47/125/131/185/186 (station Roger Salengro-Fontainebleau).
 * **[Plan](https://lse.epita.fr/images/plan-conferences.png "lien vers le plan d'accès à la conférence")**
 
+Contact :
+
+* e-mail : contact [at] rump [point] beer
+* irc : [##BeeRumP sur freenode](irc://chat.freenode.net:6667/##beerump "URI vers le chan IRC de BeeRumP")
+
+
 Comment :
 
 * Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2017 "lien de réservation des places")**.

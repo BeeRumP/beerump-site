@@ -35,7 +35,8 @@ Où ?
 
 Contact ?
 
-* contact [at] rump [point] beer
+* e-mail : contact [at] rump [point] beer
+* irc : [##BeeRumP sur freenode](irc://chat.freenode.net:6667/##beerump "URI vers le chan IRC de BeeRumP")
 
 Pourquoi faire payer les places (2€) ?
 
