@@ -17,7 +17,7 @@ Comment sponsoriser cet évènement ?
 Que puis-je espérer en tant que sponsor ?
 
 * Tout est négociable mais aucune rump commerciale ne sera acceptée.
-* Dans tout les cas, vous serez publiquement remercié sur notre compte Twitter et lors de la rump d'ouverture.
+* Dans tous les cas, vous serez publiquement remercié sur notre compte Twitter et lors de la rump d'ouverture.
 * Suivant votre participation, vous pourrez installer un stand pendant l'évènement, distribuer des goodies, avoir votre logo dans la bannière du site de BeeRumP, etc.
 
 ### Informations pratiques
