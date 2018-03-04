@@ -5,7 +5,7 @@ Category: FAQ
 
 ### Réserver sa place
 
-* Des places seront bientôt mises en vente, surveillez le compte twitter et le chan IRC !
+* Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2017 "lien de réservation des places")**.
 
 ### Sponsors
 

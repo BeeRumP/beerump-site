@@ -33,6 +33,6 @@ Contact :
 
 Comment :
 
-* Des places seront bientôt mises en vente, surveillez le compte twitter et le chan IRC !
+* Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2018 "lien de réservation des places")**.
 
 Plus d'infos dans la **[FAQ]({filename}/FAQ.md "lien vers la FAQ")**
