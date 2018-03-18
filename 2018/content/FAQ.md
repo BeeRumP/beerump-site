@@ -5,7 +5,7 @@ Category: FAQ
 
 ### Réserver sa place
 
-* Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2017 "lien de réservation des places")**.
+* Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2018 "lien de réservation des places")**.
 
 ### Sponsors
 

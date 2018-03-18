@@ -2,7 +2,7 @@ Title: Lancement de BeeRumP
 Date: 2018-04-03 16:00
 Category: Annonces
 
-Marre de faire F5 pour se procurer une place de conférence ? Fatigué des conférences de 3 heures sur un sujet obscur ? Pas passionné par les objectifs RH des agences X ou des vendeurs Y ? Envie de fun et de vrais trucs pratiques pour poncer ?
+<strike>Marre de faire F5 pour se procurer une place de conférence ?</strike> Fatigué des conférences de 3 heures sur un sujet obscur ? Pas passionné par les objectifs RH des agences X ou des vendeurs Y ? Envie de fun et de vrais trucs pratiques pour poncer ?
 
 **Alors BeeRumP est fait pour vous !**
 
