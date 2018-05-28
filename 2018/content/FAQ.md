@@ -29,9 +29,8 @@ Quand ?
 Où ?
 
 * À Paris, dans les locaux de l'**[EPITA](http://www.epita.fr/contact-plan-acces-ecole.aspx "lien vers le site de l'EPITA")**.
-* Amphithéâtre 4, EPITA, 24 rue Pasteur, 94276 Le Kremlin-Bicêtre.
+* Amphithéâtre 401, 19bis rue Pasteur, 94270 Le Kremlin-Bicêtre.
 * Métro 7 (station Porte d'Italie), bus 47/125/131/185/186 (station Roger Salengro-Fontainebleau).
-* **[Plan](https://lse.epita.fr/images/plan-conferences.png "lien vers le plan d'accès à la conférence")**
 
 Contact ?
 
