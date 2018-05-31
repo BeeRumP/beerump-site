@@ -8,6 +8,7 @@ Category: Programme
 | **19h30-20h30**  | **Accueil / Enregistrement / Apéro** | - |
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | **20h30** |  Rump d'intro |  [BeeRumP](https://www.twitter.com/BeeRumP_Paris "lien vers le profil Twitter de BeeRumP") |
+| - | From sandbox to kernel: iOS/macOS 0-day^w48-hours| [Eloi Vanderbeken](https://twitter.com/elvanderb) |
 | - | Dumper un microcontrolleur Cypress PSoC 1 | [Trou](https://syscall.eu/blog/2018/03/12/aigo_part2/) |
 | - |  *** privilege escalation | [real](https://twitter.com/ambionics) | 
 | - | Please COM again | [hakril](https://twitter.com/hakril) |
