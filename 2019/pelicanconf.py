@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Eloi Vanderbeken'
+AUTHOR = u'Eloi Benoist-Vanderbeken'
 SITENAME = u'BeeRumP'
-SITEURL = 'http://rump.beer/2018'
+SITEURL = 'http://rump.beer/2019'
 RELATIVE_URLS = True
 THEME = 'theme'
 
