@@ -32,7 +32,7 @@ Contact :
 
 Comment :
 
-* La billeterie sera bientôt ouverte, plusieurs rounds seront mis en place pour satisfaire tout le monde :)
+* Réservez vos places **[ICI](https://www.helloasso.com/associations/beerump/evenements/beerump-2022/ "lien de réservation des places")**. Plusieurs rounds seront mis en place pour satisfaire le plus de personnes possible, surveillez twitter !
 * Soumettez votre rump à [contact \[at\] rump \[point\] beer](mailto:contact[AT]rump[POINT]beer?subject=Soumission%20BeeRumP%202022 "Envoyez votre soumission !")
 
 Plus d'infos dans la **[FAQ]({filename}/FAQ.md "lien vers la FAQ")**
