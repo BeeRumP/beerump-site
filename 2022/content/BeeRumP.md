@@ -21,7 +21,7 @@ Quand :
 Où :
 
 * À Paris, dans les locaux de l'**[ESIEA à Ivry](https://www.esiea.fr/ "lien vers le site internet de l'ESIEA")**.
-* 74bis, avenue Maurice Thorez - 94200 Ivry-sur-Seine
+* 3, rue Édouard Vasseur - 94200 Ivry-sur-Seine
 * Transports en commun : métro 7 (station Pierre et Marie Curie), bus 125 (arrêt Pierre et Marie Curie - Métro).
 
 Contact :
