@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Archives</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="content">
+        <div id="archives">
+        <ul>
+        <del><li><h2><a href="https://www.google.com/search?q=covid-19">Edition 2021</a></h2></li></del>
+        <del><li><h2><a href="https://www.google.com/search?q=covid-19">Edition 2020</a></h2></li></del>
+        <li><h2><a href="{{ SITEURL }}/../2019">Edition 2019</a></h2></li>
+        <li><h2><a href="{{ SITEURL }}/../2018">Edition 2018</a></h2></li>
+        <li><h2><a href="{{ SITEURL }}/../2017">Edition 2017</a></h2></li>
+        <li><h2><a href="{{ SITEURL }}/../2016">Edition 2016</a></h2></li>
+        </ul>
+        </div>
+    </section>
+{% endblock %}
