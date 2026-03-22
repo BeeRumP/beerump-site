@@ -1,4 +1,5 @@
 Title: BeeRumP 2026
+Date: 2026-03-23 00:00
 Category: Annonces
 
 
@@ -6,7 +7,7 @@ Fatigué des conférences de 3 heures sur un sujet obscur ? Pas passionné par l
 
 **Alors BeeRumP est fait pour vous !**
 
-BeeRumP se propose de rassembler le meilleur de la sécurité : Les rumps et la bière ! (autres boissons alcoolisées ou non bienvenues)
+BeeRumP se propose de rassembler le meilleur de la sécurité : les rumps et la bière ! (autres boissons alcoolisées ou non bienvenues)
 
 Le principe est simple :
 
@@ -16,7 +17,7 @@ Le principe est simple :
 
 Quand :
 
-* Le 19 juin 2022, de 19h30 à 00h00.
+* Le 19 juin 2026, de 19h30 à 00h00.
 
 Où :
 
